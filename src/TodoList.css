@@ -1,0 +1,42 @@
+#buttonsFilter {
+    float: right;
+    position: absolute;
+    top: 105px;
+    right: 16px;
+    font-size: 18px;
+}
+
+button {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D7DAE2;
+    opacity: 1;
+    width: 120px;
+    height: 32px;
+}
+
+#searchBar {
+    width: 370px;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+#searchBar:focus {
+    outline-width: 0;
+}
+
+#container {
+    background-color: #FFFFFF;
+}
+
+table{
+    border-collapse: collapse;  
+    width: 100%; 
+    text-align:left; 
+}
+
+th {
+    height: 50px;
+    background: #F5F6FA 0% 0% no-repeat padding-box;
+    opacity: 1;
+}

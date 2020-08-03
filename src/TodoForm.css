@@ -1,0 +1,57 @@
+Modal {
+    top: 336px;
+    left: 494px;
+    width: 613px;
+    height: 352px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 15px #0000001A;
+    opacity: 1;
+}
+
+input {
+    border-width:0px;
+    border:none;
+    box-shadow: none;
+}
+
+input:focus {
+    outline-width: 0;
+}
+
+#addButton {
+    color: #FFFFFF;
+    top: 628px;
+    left: 967px;
+    width: 130px;
+    height: 50px;
+    background: #3B86FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    box-shadow: none;
+    float: right;
+}
+
+#addButton1{
+    color: #FFFFFF;
+    top: 628px;
+    left: 1290px;
+    width: 130px;
+    height: 50px;
+    background: #3B86FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    box-shadow: none;
+    float: right;
+    position: absolute;
+    bottom: 8px;
+    font-size: 18px;
+}
+
+#cancleButton {
+    color: #FFFFFF;
+    top: 628px;
+    left: 504px;
+    width: 130px;
+    height: 50px;
+    background: #43425D 0% 0% no-repeat padding-box;
+    opacity: 1;
+    float: left;
+}
