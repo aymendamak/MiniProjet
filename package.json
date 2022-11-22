@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-responsive-modal": "^5.0.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-search-field": "^1.0.0",
     "reactjs-popup": "^1.5.0",
     "short-id": "0.1.0-1"
